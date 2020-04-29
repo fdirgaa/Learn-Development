@@ -5,5 +5,6 @@ If you want to try it self check this link :
 [JavaScript BookList App | No Frameworks](https://youtu.be/JaMCxVWtW58)
 
 ## **Follow me on :**  
-Instagram : [Ferdi Dirgantara](https://www.instagram.com/iamferdidirgantara)  
-YouTube : [Ferdi Dirgantara](https://www.youtube.com/channel/UCeaggiYCZtYIbXNcZbecFHg) and [Fexity](https://www.youtube.com/user/FerdiDirgantara)
+**Instagram :** [Ferdi Dirgantara](https://www.instagram.com/iamferdidirgantara)  
+**YouTube :** [Ferdi Dirgantara](https://www.youtube.com/channel/UCeaggiYCZtYIbXNcZbecFHg) and [Fexity](https://www.youtube.com/user/FerdiDirgantara)  
+**GitHub :** [Ferdi Dirgantara](https://www.github.com/fdirgaa)
