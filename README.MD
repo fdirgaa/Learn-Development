@@ -17,6 +17,8 @@ No | Name | Demo |
 03 | [Date Picker](03_DatePicker) | [Demo](https://fdirgaa.github.io/Learn-Web-Development/03_DatePicker/) |
 04 | [ToDo List](04_ToDoList) | [Demo](https://fdirgaa.github.io/Learn-Web-Development/04_ToDoList/) |
 05 | [Invisible Card](05_InvisibleCard) | [Demo](https://fdirgaa.github.io/Learn-Web-Development/05_InvisibleCard/) |
+06 | [Music Player](06_MusicPlayer) | [Demo](https://fdirgaa.github.io/Learn-Web-Development/06_MusicPlayer/) |
+07 | [Tip Calculator](07_TipCalc) | [Demo](https://fdirgaa.github.io/Learn-Web-Development/07_TipCalc/) |
 
 ---
 
